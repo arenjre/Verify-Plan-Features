@@ -1,0 +1,5 @@
+
+{
+    "_comment": "we can add feature here for example if we wanna acess feature6 the just add 'feature6' in array",
+    "access": ["feature1", "feature3", "feature5"]
+ }
